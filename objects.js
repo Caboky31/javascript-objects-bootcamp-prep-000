@@ -1,4 +1,4 @@
-var playlist ={
-Foo Fighters: Everlong,
-Prince: Purle Rain
-}
+var playlist = {
+Foo Fighters: "Everlong",
+Prince: "Purle Rain"
+};
