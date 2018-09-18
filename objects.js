@@ -4,6 +4,6 @@ Prince: "Purle Rain"
 };
 
 
-function updatePlaylist(playlist, artist, ) {
+function updatePlaylist(playlist, artist, song) {
   
 }
