@@ -1,4 +1,4 @@
 var playlist ={
-  artist : 
-  
+Foo Fighters: Everlong,
+Prince: Purle Rain
 }
