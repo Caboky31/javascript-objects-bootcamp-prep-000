@@ -1,4 +1,9 @@
 var playlist = {
-Foo Fighters : "Everlong",
-Prince : "Purle Rain"
+Foo Fighters: "Everlong",
+Prince: "Purle Rain"
 };
+
+
+function updatePlaylist(playlist, "") {
+  
+}
